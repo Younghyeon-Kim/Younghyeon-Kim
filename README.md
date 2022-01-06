@@ -1,5 +1,2 @@
-# Hi, there !
+![profile](README/image-20220106143155771.png)
 
-:wave:It's Younghyeon-Kim
-
-thank you
