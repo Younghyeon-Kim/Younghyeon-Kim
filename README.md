@@ -1,2 +1,1 @@
-![profile](README/image-20220203185521334.png)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungHyeon-Kim 아이디&show_icons=true&theme=vue)
